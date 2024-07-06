@@ -15,6 +15,6 @@
 
 ### Ссылки
 
-👉 Ютюб, где я делаю лекции: https://youtube.com/@TimurShemsedinov
-👉 Мой гитхаб: https://github.com/tshemsedinov
-👉 Один их каналов в тг: https://t.me/HowProgrammingWorks
+- 👉 Ютюб, где я делаю лекции: https://youtube.com/@TimurShemsedinov
+- 👉 Мой гитхаб: https://github.com/tshemsedinov
+- 👉 Один их каналов в тг: https://t.me/HowProgrammingWorks

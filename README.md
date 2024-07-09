@@ -1,5 +1,10 @@
 # Essential Knowledge for Programmers
 
+> Translations:
+[EN](https://github.com/tshemsedinov/Programming-Knowledge/tree/en),
+[UA](https://github.com/tshemsedinov/Programming-Knowledge/tree/ua),
+[RU](https://github.com/tshemsedinov/Programming-Knowledge/tree/ru).
+
 Here's what I suggest learning and practicing. These principles can become cargo cults if not properly rethought. Understanding these concepts can't just be extracted from a box (or book) and placed into your maind. It varies greatly for different languages and platforms. Blindly transferring knowledge and practices from C++ or Java to JavaScript and C# results in dead ceremonies. However, they can be revived through practice, tied to realities, and rethought to avoid becoming monstrous and horrors.
 
 - 📂 Module Systems, Dependency Injection (DI), and Inversion of Control (IoC): skills in building application structure, including legendary folder architecture, layered and onion architecture, hexagonal and pipeline – you can't take them all, they are contradictory techniques; you need to choose and comprehend.

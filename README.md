@@ -1,6 +1,6 @@
 # Essential Knowledge for Programmers in 2026
 
-Here's what I suggest learning and practicing. These principles can become cargo cults if not properly rethought. Understanding these concepts can't just be extracted from a box (or book) and placed into your maind. It varies greatly for different languages and platforms. Blindly transferring knowledge and practices from C++ or Java to JavaScript and C# results in dead ceremonies. However, they can be revived through practice, tied to realities, and rethought to avoid becoming monstrous and horrors.
+Here's what I suggest learning and practicing for all langiages but especially for JavaScript/TypeScript and Web. These principles can become cargo cults if not properly rethought. Understanding these concepts can't just be extracted from a box (or book) and placed into your maind. It varies greatly for different languages and platforms. Blindly transferring knowledge and practices from C++ or Java to JavaScript and C# results in dead ceremonies. However, they can be revived through practice, tied to realities, and rethought to avoid becoming monstrous and horrors.
 
 - Data structures (just how to use)
 - Type systems: nominal, structural, variance...

@@ -1,25 +1,50 @@
-# Essential Knowledge for Programmers
-
-> Translations:
-[EN](https://github.com/tshemsedinov/Programming-Knowledge/tree/en),
-[UA](https://github.com/tshemsedinov/Programming-Knowledge/tree/ua),
-[RU](https://github.com/tshemsedinov/Programming-Knowledge/tree/ru).
+# Essential Knowledge for Programmers in 2026
 
 Here's what I suggest learning and practicing. These principles can become cargo cults if not properly rethought. Understanding these concepts can't just be extracted from a box (or book) and placed into your maind. It varies greatly for different languages and platforms. Blindly transferring knowledge and practices from C++ or Java to JavaScript and C# results in dead ceremonies. However, they can be revived through practice, tied to realities, and rethought to avoid becoming monstrous and horrors.
 
-- 📂 Module Systems, Dependency Injection (DI), and Inversion of Control (IoC): skills in building application structure, including legendary folder architecture, layered and onion architecture, hexagonal and pipeline – you can't take them all, they are contradictory techniques; you need to choose and comprehend.
-- 📦 Decomposition of Abstractions and GRASP Principles: Information Expert, SOLID: Single Responsibility Principle (SRP) and Interface Segregation Principle (ISP), Law of Demeter (LoD). Here I have lectures on that: [tshemsedinov/Patterns-JavaScript](https://github.com/tshemsedinov/Patterns-JavaScript/tree/en)
-- 🧩 Contract Programming and Modeling with Schemas: Databases, data structures, API contracts, module contracts, forms, reports, subsystems, layers – a uniform approach is needed for contracts.
-- 🔮 Principles of Isolation and SoC (Separation of Concerns): Isolate everything that needs to change independently, using interfaces and contracts, patterns (like facade and adapter), processes and threads, isolated execution contexts.
-- 🔗 Coupling and Cohesion: Managing complexity, hiding complexity behind abstractions and facades; semantic complexity is much more important than cyclomatic.
-- 🙈 All-agnostic approaches: Platform-agnostic, Framework-agnostic, Protocol-agnostic, etc. – code should not change when moving to new framework, for example, endpoint handlers should not change when moving between frameworks or even protocols (of course, this shouldn't be done blindly).
-- 🏛️ Clean Architecture and Layered Architecture: there can be one layer, two or three; don't copy project templates, you should design abstraction layers.
-- ✍ Creating Domain-Specific Languages (DSL): domain code complexity often leads us to the need to simplify syntax drastically; programming language, whatever it is, stops fitting the domain – we need to make a leap in expressiveness, another syntax, and semantics. Languages like LISP and JS can be their own DSLs, but not always.
-- 👷🏻‍♂️ Separation of Applied and System Code: these are different specialties with minimal knowledge overlap. For example, in JavaScript, an applied programmer can think of variables as scalar values and references, while a system programmer must think about identifiers, heap, stack, register variables, object forms, optimization features, and garbage collection – this could be a 10-hour lecture with some things forgotten or inaccuracies creeping in.
-- 🌟 Multi-Paradigm Programming: don't get stuck on one paradigm, whether functional, object-oriented, actor model, state machine programming, reactive, or prototype-based – choose from a wide spectrum of ideas; procedural programming often gives surprisingly good results, try it.
+- Data structures (just how to use)
+- Type systems: nominal, structural, variance...
+- Modularity system (in your language)
+- Polymorphism (Ad-hoc, Subtype, Parametric, etc...)
+- Structural composition, aggregation, delegation
+- Functional composition, pure functions
+- Abstraction layers separation
+- Dispatch and Dynamic dispatch
+- Referential transparency
+- Law of Demeter
+- Referential transparency
+- Abstract data types (ADT)
+- Hidden and explicit state
+- Lazy evaluation
+- Declarative vs imperative style
+- Recursion versus loops
+- Generics (generic programming)
+- Separation of concerns
+- Isolation, interfaces, architectural boundaries
+- Dependency injection and Inversion of control
+- Coupling and cohesion
+- Mutable vs immutable data
+- Idempotent operations
+- Naming conventions
+- Error handling
+- Refactoring, code review process
+- Tests (unittesting, coverage, end-to-end...)
+- Multiparadigm programming
+- Metaprogramming (codegeneration and dynamic)
+- Platform-agnostic, framework-agnostic approach
+- Domain-Specific Language (DSL), Interpreter, AST
+- Contract programming
+- Concurrency and Asynchronous programming
+- Separation of system and applied code
+- Language and semantics
+- AI-assisted engineering
+
+But all of this should also take up no more than 30% of an engineer's skills, as of 2026. I'll add somethin about the 70% here later.
 
 ### Follow Me
 
 - YouTube Channel: https://youtube.com/@TimurShemsedinov
 - GitHub Repository: https://github.com/tshemsedinov
 - Telegram Channel: https://t.me/HowProgrammingWorks
+- X-Twitter: https://twitter.com/tshemsedinov
+- LinkedIn: https://www.linkedin.com/in/shemsedinov

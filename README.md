@@ -12,7 +12,6 @@ Here's what I suggest learning and practicing for all langiages but especially f
 - Dispatch and Dynamic dispatch
 - Referential transparency
 - Law of Demeter
-- Referential transparency
 - Abstract data types (ADT)
 - Hidden and explicit state
 - Lazy evaluation
